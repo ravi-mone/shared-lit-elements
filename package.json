@@ -19,7 +19,7 @@
     "@webcomponents/webcomponentsjs": "^2.4.3",
     "babel-cli": "^6.26.0",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "vendorCopy": [
     {
